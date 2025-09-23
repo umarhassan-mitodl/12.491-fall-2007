@@ -1,0 +1,59 @@
+{
+  "term": "Fall",
+  "year": "2007",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Science",
+      "Biology",
+      "Biochemistry"
+    ],
+    [
+      "Science",
+      "Earth Science",
+      "Geochemistry"
+    ],
+    [
+      "Science",
+      "Earth Science",
+      "Planetary Science"
+    ],
+    [
+      "Science",
+      "Earth Science",
+      "Geobiology"
+    ]
+  ],
+  "legacy_uid": "ecc542fb-d79c-8836-9acd-5b0c22540d6d",
+  "instructors": {
+    "content": [
+      "8168d826-1459-74d4-4a87-01601977df59",
+      "82356aa7-1b69-5d8e-04e4-065a7b1b7ad5"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "689c15ee-3507-bdec-27be-c7f0c11fbfd0",
+    "website": "12-491-biogeochemistry-of-sulfur-fall-2007"
+  },
+  "course_title": "Biogeochemistry of Sulfur",
+  "course_description": "This course is designed for advanced undergraduate and graduate students with an interest in using primary research literature to discuss and learn about current research around sulfur biogeochemistry and astrobiology.\n",
+  "department_numbers": [
+    "12"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "12.491",
+  "course_image_thumbnail": {
+    "content": "685b54c9-5e25-7f55-22c3-85392d5e960d",
+    "website": "12-491-biogeochemistry-of-sulfur-fall-2007"
+  },
+  "learning_resource_types": [
+    "Projects"
+  ],
+  "site_uid": "398d0b88-3b7c-4047-a41d-86cea82efe1e",
+  "site_short_id": "12.491-fall-2007",
+  "site_url_path": "courses/12-491-biogeochemistry-of-sulfur-fall-2007",
+  "title": "Course Metadata"
+}
